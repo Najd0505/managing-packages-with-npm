@@ -2,7 +2,11 @@
 	"author": "Najd",
 	"description": "webapp that teaches people to make meaningful contribution to software projects",
 	"name": "fcc-learn-npm-package-json",
-	"keywords": [ "freecodecamp", "learning node.js", "rest api" ],
+	"keywords": [
+		"freecodecamp",
+		"learning node.js",
+		"rest api"
+	],
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
